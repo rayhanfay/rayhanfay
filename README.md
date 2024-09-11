@@ -1,7 +1,7 @@
 <!-- Home Section -->
 <p align="center">
   <a href="https://github.com/rayhanfay">
-    <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Rayhanfay</h3>
+    <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Rayhan</h3>
 </p>
 
 <p align="center">
