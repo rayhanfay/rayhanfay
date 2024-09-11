@@ -22,11 +22,12 @@
 <br/>
 
 <!-- GitHub section -->
- ##  My GitHub Stats
- <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanfay" alt="Ray's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhanfay&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Ray's language" height="192px"  width="400px"/>
+## My GitHub Stats
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanfay" alt="Ray's LangStat" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhanfay&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Ray's language" height="192px" width="500px" />
 </div>
+
 
 <!-- Project Section -->
 <details open> 
