@@ -18,7 +18,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://rayhanfay.carrd.co/"><img width="32px" alt="Portfolio" title="Portfolio" src="https://i.imgur.com/9M1sywz.png"></a>
 </p>
-
+<br/>
 
 <!-- GitHub section -->
 ## My GitHub Stats
