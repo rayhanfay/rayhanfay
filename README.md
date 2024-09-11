@@ -25,7 +25,7 @@
 ## My GitHub Stats
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanfay" alt="Ray's LangStat" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhanfay&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Ray's language" height="192px" width="330px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhanfay&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Ray's language" height="195px" width="340px" />
 </div>
 
 
