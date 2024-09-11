@@ -17,7 +17,6 @@
   <a href="https://discord.gg/C5wTPHd8TY" alt="Discord" title="fal4you"><img width="32px" src="https://i.imgur.com/eHkmWFL.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://rayhanfay.carrd.co/"><img width="32px" alt="Portfolio" title="Portfolio" src="https://i.imgur.com/9M1sywz.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <br/>
 
